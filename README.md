@@ -119,19 +119,4 @@ The lab demonstrates the ability to plan, configure, and maintain a domain-based
 All major steps are documented through **screenshots, commands, and configurations**, stored in:  
 - `/screenshots` → Server, AD, GPOs, PDQ, Spiceworks  
 - `/scripts` → PowerShell and CMD snippets  
-- `/docs` → Network diagram and additional notes  
-
----
-
-## Future Enhancements
-- Automate user and group management with PowerShell scripts  
-- Expand to multi-site Active Directory with replication  
-- Integrate Linux/Mac clients into the domain  
-- Centralize monitoring with enterprise logging tools  
-
----
-
-## Contact
-If you’d like to discuss this project or my IT administration experience:  
-- **LinkedIn:** [Your LinkedIn Profile]  
-- **Email:** [Your Email]  
+- `/docs` → Network diagram and additional notes
